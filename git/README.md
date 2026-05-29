@@ -1,2 +1,2 @@
 My first readme
-Now I can do linux codes
+Now I can do linux
